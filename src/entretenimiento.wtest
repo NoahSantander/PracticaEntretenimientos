@@ -1,4 +1,4 @@
-import entretenimiento.*
+import Entretenimientos.*
 
 describe "entretenimientos" {
 
